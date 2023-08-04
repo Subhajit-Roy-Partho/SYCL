@@ -1,0 +1,1 @@
+[host:host:0] SYCL host platform, SYCL host device 1.2 [1.2]
