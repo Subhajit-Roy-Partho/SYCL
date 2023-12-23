@@ -2,8 +2,8 @@
 SYCL tutorial
 
 ### Current Protocol
- - Install (oneAPI Base Toolkit (latest))[https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit-download.html]
- - Install nvidia (CodePlay)[https://developer.codeplay.com/products/oneapi/nvidia/download/].
+ - Install [oneAPI Base Toolkit (latest)](https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit-download.html)
+ - Install [nvidia CodePlay](https://developer.codeplay.com/products/oneapi/nvidia/download/).
  - Compile code using `icpx -fsycl` .
 
 
